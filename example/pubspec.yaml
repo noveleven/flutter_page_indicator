@@ -24,7 +24,9 @@ dependencies:
     path: ../
 
   transformer_page_view:
-    path: /Users/jzoom/SourceCode/transformer_page_view
+    git:
+      url: git@github.com:noveleven/transformer_page_view.git
+      ref: master
 
 dev_dependencies:
   flutter_test:
